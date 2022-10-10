@@ -7,7 +7,7 @@ This personal project helped me to easily download any YouTube's video audio as 
 To use the downloader on your system you just need to have Python installed, open Windows CMD 
 or PowerShell on the directory where yt_mp3.py is located and type as follows:
 
-py yt_mp3 {link} -o {path-to-directory (optional)}
+py yt_mp3.py {link} -o {path-to-directory (optional)}
 
 You should insert the arguments without brackets and the path must be between quotation marks. If _py_ do not work for you try _python_ instead. 
 When no directory is specified, the script automatically saves the MP3 to your Music folder.
