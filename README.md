@@ -26,4 +26,4 @@ py yt_mp3.py https://youtu.be/fqsMCEgHMrE -o "C:\Users\MyUser\Desktop\MP3 downlo
 
 - It is still not possible to download playlists with this script;
 - No option to also download the videos;
-- It would be nice to search videos by name to download then without the need to open YouTube (potentially a GUI listing options).
+- It would be nice to search videos by name to download then without the need to open YouTube (potentially using a GUI to list options).
