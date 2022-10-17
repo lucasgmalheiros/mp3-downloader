@@ -4,7 +4,7 @@ This personal project helped me to easily download any YouTube's video audio as 
 
 ### User Guide
 
-To use the downloader on your system you just need to have Python installed, open Windows CMD 
+To use the downloader on your system you just need to have Python and the [yt_dlp](https://github.com/yt-dlp/yt-dlp#installation) package installed, open Windows CMD 
 or PowerShell on the directory where [yt_mp3.py](https://github.com/lucasgabriel21/mp3-downloader/blob/master/yt_mp3.py) is located and type as follows:
 
 py yt_mp3.py {link} -o {path-to-directory (optional)}
